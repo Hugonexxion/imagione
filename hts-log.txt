@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 16 Mar 2022 23:47:00 at https://imaginary-ones.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://imaginary-ones.org/ -O1 "C:\My Web Sites\tatata" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:47:08	Error: 	"Not Found" (404) at link https://imaginary-ones.org/"https://uploads-ssl.webflow.com/61de7298d989570f5853dd20/61de98c35a7bb673b5956c8c_WalksHD2-poster-00001.jpg" (from https://imaginary-ones.org/)
+23:47:08	Error: 	"Not Found" (404) at link https://imaginary-ones.org/"https://uploads-ssl.webflow.com/61de7298d989570f5853dd20/61f10d65be9fd47b6423e99f_WalkTgt-poster-00001.jpg" (from https://imaginary-ones.org/)
+23:47:08	Error: 	"Not Found" (404) at link https://imaginary-ones.org/cdn-cgi/l/email-protection (from https://imaginary-ones.org/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 seconds : 28 links scanned, 24 files written (17693712 bytes overall) [16184744 bytes received at 2023093 bytes/sec], 2124966 bytes transferred using HTTP compression in 10 files, ratio 27%, 3.5 requests per connection
+(3 errors, 0 warnings, 0 messages)
